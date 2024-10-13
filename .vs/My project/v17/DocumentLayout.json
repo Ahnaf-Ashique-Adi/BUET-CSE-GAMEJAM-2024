@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity\\projects\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Health\\HealthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Player\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:26:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:34:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerShoot.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Player\\PlayerShoot.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:03:21.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Player\\Bullet.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Player\\Bullet.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:56:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA/wFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:20:07.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerAwarenessController.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\PlayerAwarenessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:05:50.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:01:41.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
