@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\GameScene\Enemy\PlayerAwarenessController.cs" />
     <Compile Include="Assets\Scripts\GameScene\Player\Bullet.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Health\HealthBarUI.cs" />
     <Compile Include="Assets\Scripts\GameScene\Player\PlayerShoot.cs" />
   </ItemGroup>
   <ItemGroup>
