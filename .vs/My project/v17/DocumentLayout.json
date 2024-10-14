@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "G:\\Unity\\projects\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\score\\score ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\score\\score ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\enemy\\enemyscorealocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\enemy\\enemyscorealocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\health\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\health\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\health\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\health\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\player\\playerdamagedinvincibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\player\\playerdamagedinvincibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\health\\invincibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\health\\invincibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\score\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\score\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFUAAAABAAAAAAAAAA==",
+              "Title": "Score UI.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T10:22:51.33Z",
+              "WhenOpened": "2024-10-14T15:30:15.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnemySpawner.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemySpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemySpawner.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemySpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemySpawner.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBoAAAAZAAAAAAAAAA==",
+              "Title": "EnemyScoreAlocator.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:06:41.74Z",
+              "WhenOpened": "2024-10-14T15:09:18.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HealthBarUI.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthBarUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Health\\HealthBarUI.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthBarUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Health\\HealthBarUI.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCkAAAAIAAAAAAAAAA==",
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:52:06.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerDamagedInvincibility.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerDamagedInvincibility.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Player\\PlayerDamagedInvincibility.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Player\\PlayerDamagedInvincibility.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Player\\PlayerDamagedInvincibility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:56:49.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InvincibilityController.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\InvincibilityController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Health\\InvincibilityController.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\InvincibilityController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Health\\InvincibilityController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T17:37:01.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
-              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Health\\HealthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:34:03.201Z"
+              "WhenOpened": "2024-10-14T15:06:02.782Z"
             }
           ]
         }
