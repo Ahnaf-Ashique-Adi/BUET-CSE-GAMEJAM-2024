@@ -789,6 +789,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _healthBarForegroundImage: {fileID: 1180574896}
+--- !u!1 &729750343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 729750345}
+  - component: {fileID: 729750344}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &729750344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729750343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02b2e2b6b5a558c4eb81b3e280a9681a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _timeToWaitBeforeExit: 3
+--- !u!4 &729750345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729750343}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.95913637, y: -0.5543987, z: -0.07926323}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1021760293
 GameObject:
   m_ObjectHideFlags: 0
@@ -1253,6 +1298,7 @@ GameObject:
   - component: {fileID: 1726649756}
   - component: {fileID: 1726649758}
   - component: {fileID: 1726649759}
+  - component: {fileID: 1726649760}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1397,9 +1443,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bulletPrefab: {fileID: 8357221334020863996, guid: 11a7aa5c29c16c646b0a3cb886683045, type: 3}
-  _bulletSpeed: 5
+  _bulletSpeed: 6
   _gunOffset: {fileID: 1460950848}
-  _timeBetweenShots: 0.5
+  _timeBetweenShots: 0.35
 --- !u!114 &1726649755
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1465,6 +1511,18 @@ MonoBehaviour:
           m_StringArgument: IsDead
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 729750344}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: OnPlayerDied
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: IsDead
+          m_BoolArgument: 0
+        m_CallState: 2
   OnDamaged:
     m_PersistentCalls:
       m_Calls:
@@ -1520,6 +1578,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _invincibilityDuration: 1
+  _flashColor: {r: 1, g: 1, b: 1, a: 0.50980395}
+  _numberOffFlashes: 12
 --- !u!95 &1726649758
 Animator:
   serializedVersion: 5
@@ -1568,6 +1628,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1726649760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1726649747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b582f7e683f95e4687b88dcc806d819, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2016537809
 GameObject:
   m_ObjectHideFlags: 0
@@ -1686,3 +1758,4 @@ SceneRoots:
   - {fileID: 474084152}
   - {fileID: 432830391}
   - {fileID: 2016537811}
+  - {fileID: 729750345}

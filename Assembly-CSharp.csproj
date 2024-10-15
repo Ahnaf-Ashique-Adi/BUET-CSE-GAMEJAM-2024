@@ -77,8 +77,10 @@
     <Compile Include="Assets\Scripts\GameScene\Player\Bullet.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyScoreAlocator.cs" />
+    <Compile Include="Assets\Scripts\GameScene\GameManager.cs" />
     <Compile Include="Assets\Scripts\GameScene\Health\HealthBarUI.cs" />
     <Compile Include="Assets\Scripts\GameScene\Collectables\ICollectableBehaviour.cs" />
+    <Compile Include="Assets\Scripts\MainMenu\MainMenu.cs" />
     <Compile Include="Assets\Scripts\GameScene\Player\PlayerShoot.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyDestroyController.cs" />
   </ItemGroup>
