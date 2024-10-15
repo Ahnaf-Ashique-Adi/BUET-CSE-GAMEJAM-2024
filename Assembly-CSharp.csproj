@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyCollectableDrop.cs" />
     <Compile Include="Assets\Scripts\GameScene\Health\InvincibilityController.cs" />
+    <Compile Include="Assets\Scripts\GameScene\SpriteFlash.cs" />
     <Compile Include="Assets\Scripts\GameScene\Collectables\CollectableSpawner.cs" />
     <Compile Include="Assets\Scripts\GameScene\Health\HealthController.cs" />
     <Compile Include="Assets\Scripts\GameScene\Collectables\HealthCollectable.cs" />
