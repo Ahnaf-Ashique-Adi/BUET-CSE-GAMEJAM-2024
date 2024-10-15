@@ -3,11 +3,31 @@
   "WorkspaceRootPath": "G:\\Unity\\projects\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\score\\score ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\enemy\\enemycollectabledrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\enemy\\enemycollectabledrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\collectables\\collectablespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\collectables\\collectablespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\collectables\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\collectables\\collectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\collectables\\healthcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\collectables\\healthcollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\collectables\\icollectablebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\collectables\\icollectablebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\score\\score ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\score\\score ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|g:\\unity\\projects\\my project\\assets\\scripts\\gamescene\\enemy\\enemyscorealocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|G:\\Unity\\projects\\My project\\assets\\scripts\\gamescene\\enemy\\enemyscorealocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\enemy\\enemyscorealocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemyCollectableDrop.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyCollectableDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemyCollectableDrop.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyCollectableDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemyCollectableDrop.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:45:05.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectableSpawner.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\CollectableSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Collectables\\CollectableSpawner.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\CollectableSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Collectables\\CollectableSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:30:56.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthCollectable.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\HealthCollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Collectables\\HealthCollectable.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\HealthCollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Collectables\\HealthCollectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:49:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICollectableBehaviour.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\ICollectableBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Collectables\\ICollectableBehaviour.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\ICollectableBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Collectables\\ICollectableBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:41:47.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collectable.cs",
+              "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\Collectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Collectables\\Collectable.cs",
+              "ToolTip": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Collectables\\Collectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\Collectables\\Collectable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:33:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Score UI.cs",
               "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
@@ -34,12 +119,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameScene\\Score\\Score UI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T15:30:15.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T15:30:15.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EnemyScoreAlocator.cs",
               "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
@@ -47,12 +131,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameScene\\Enemy\\EnemyScoreAlocator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T15:09:18.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T15:09:18.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ScoreController.cs",
               "DocumentMoniker": "G:\\Unity\\projects\\My project\\Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\Score\\ScoreController.cs",
