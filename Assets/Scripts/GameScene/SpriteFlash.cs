@@ -10,6 +10,11 @@ public class SpriteFlash : MonoBehaviour
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
     }
 
+    public void StartFlash(float flashDuration, Color flashColor, int numberOffFlashes) 
+    {
+        StartCoroutine(FlashCoroutine(flashDuration, flashColor, numberOffFlashes));
+    }
+
     public IEnumerator FlashCoroutine(float flashDuration, Color flashColor, int numberOffFlashes )
     {
         Color startColor = _spriteRenderer.color;

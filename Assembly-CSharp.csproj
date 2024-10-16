@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\GameScene\Score\ScoreController.cs" />
     <Compile Include="Assets\Scripts\GameScene\Player\Bullet.cs" />
     <Compile Include="Assets\Scripts\SceneFade.cs" />
+    <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyDamageFlash.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\GameScene\Enemy\EnemyScoreAlocator.cs" />
     <Compile Include="Assets\Scripts\GameScene\GameManager.cs" />
