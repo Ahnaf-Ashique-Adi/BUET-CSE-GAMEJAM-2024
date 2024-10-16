@@ -2164,9 +2164,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bulletPrefab: {fileID: 8357221334020863996, guid: 11a7aa5c29c16c646b0a3cb886683045, type: 3}
-  _bulletSpeed: 5
+  _bulletSpeed: 6
   _gunOffset: {fileID: 1460950848}
-  _timeBetweenShots: 0.4
+  _timeBetweenShots: 0.45
 --- !u!114 &1726649755
 MonoBehaviour:
   m_ObjectHideFlags: 0
